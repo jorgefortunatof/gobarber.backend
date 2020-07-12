@@ -15,7 +15,7 @@ class CreateAppointment1589147158400 implements MigrationInterface {
 					},
 					{
 						name: 'provider',
-						type: 'varChar',
+						type: 'varchar',
 					},
 					{
 						name: 'date',
